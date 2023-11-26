@@ -1,2 +1,7 @@
 holaa
+<<<<<<< HEAD
 cambioss
+=======
+aver si es prueba
+asdsadsa
+>>>>>>> ramaC
